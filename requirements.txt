@@ -1,0 +1,4 @@
+notebook
+mlflow
+pandas
+scikit-learn
